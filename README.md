@@ -19,10 +19,10 @@ I enjoy building practical software products that solve real business problems, 
 
 **Languages:** Python, JavaScript, TypeScript, SQL  
 **Frontend:** React, Vite, Tailwind CSS, HTML, CSS  
-**Backend:** FastAPI, REST APIs, Pydantic, Uvicorn  
+**Backend:** FastAPI, REST APIs, Node.js, Pydantic, Uvicorn  
 **Data & AI:** Pandas, NumPy, OpenAI API, RAG, Embeddings, ChromaDB  
 **Databases:** PostgreSQL, Supabase, SQL  
-**Tools:** Git, GitHub, VS Code  
+**Tools:** AWS, Git, GitHub, VS Code  
 
 ## 📌 Featured Projects
 
